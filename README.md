@@ -114,5 +114,14 @@ _Read the full masterplan → Coming Soon in `/docs`_
 
 ---
 
+### 🧡 Support Neura
+
+If you believe in this mission, help me keep building.
+
+[![Support on Patreon](https://img.shields.io/badge/Support-Patreon-orange?logo=patreon)](https://www.patreon.com/c/ByShiladityaMallick)
+
+> Every contribution helps Neura stay open-source, safe, and accessible for everyone.
+
+
 > _Built not just with code,  
 but with care._
